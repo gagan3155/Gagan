@@ -1,2 +1,3 @@
-# Gagan
-Trump trades is a real-money gaming app and website that offers a variety of casual games, prediction games, lottery-style draws, and casino-inspired options. The platform is specifically designed for the Indian market, supporting local payment systems like UPI, Paytm, PhonePe, and direct bank transfers.
+# Crash/Aviator Demo with Betting
+
+Run `npm install && npm start`, then open http://localhost:3000/client.html

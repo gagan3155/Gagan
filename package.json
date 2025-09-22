@@ -1,0 +1,15 @@
+{
+  "name": "game-project",
+  "version": "1.0.0",
+  "description": "Crash/Aviator style multiplayer demo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Gagandeep Singh",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  }
+}
